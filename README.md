@@ -13,7 +13,7 @@
 
 <h1 align="center">Hi 👋, I'm KamleshSah</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
-<a href="https://app.daily.dev/visnusah"><img align= "right" src="https://api.daily.dev/devcards/v2/0aodCDkI5UPAjmW65chRV.png?type=wide&r=sew" width="652" alt="Program Prodigy's Dev Card"/></a>
+<a href="https://app.daily.dev/visnusah"><img align= "right" src="https://api.daily.dev/devcards/v2/0aodCDkI5UPAjmW65chRV.png?type=wide&r=sew" width="1100" alt="Program Prodigy's Dev Card"/></a>
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Visnusah/Visnusah/main/k.png"/>
 
 - 🔭 I’m currently working on **TODO Application For project 0064**
