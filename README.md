@@ -10,11 +10,9 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 </div>
-
+<a href="https://app.daily.dev/visnusah"><img src="https://api.daily.dev/devcards/v2/0aodCDkI5UPAjmW65chRV.png?type=wide&r=m6k" width="652" alt="Visnu Sah's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm KamleshSah</h1>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
-<a href="https://app.daily.dev/visnusah"><img align= "right" src="https://api.daily.dev/devcards/v2/0aodCDkI5UPAjmW65chRV.png?type=wide&r=sew" width="1100" alt="Program Prodigy's Dev Card"/></a>
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Visnusah/Visnusah/main/k.png"/>
 
 - 🔭 I’m currently working on **TODO Application For project 0064**
 
