@@ -14,7 +14,6 @@
 <a href="https://app.daily.dev/visnusah"><img src="https://api.daily.dev/devcards/v2/0aodCDkI5UPAjmW65chRV.png?type=wide&r=m6k" width="652" alt="Visnu Sah's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm KamleshSah</h1>
 <a href="https://stardev.io/developers/Visnusah"><img alt="Check out Visnusah's profile on stardev.io" src="https://stardev.io/developers/Visnusah/badge/languages/global.svg" /></a>
-<a href="https://stardev.io/developers/Visnusah"><img alt="Check out Visnusah's profile on stardev.io" src="https://stardev.io/developers/Visnusah/badge/languages/country.svg" /></a>
 <h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
 - 🔭 I’m currently working on **TODO Application For project 0064**
