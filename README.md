@@ -30,7 +30,7 @@
 
 - 📄 Know about my experiences [GitHub](https://github.com/Visnusah)
 
-- ⚡ Fun fact **I think I am Funny coder and ejoy learning New Language.**
+- ⚡ Fun fact **I think I am a Funny coder and enjoy learning New Languages.**
 
 [![An image of @visnusah's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/visnusah)](https://holopin.io/@visnusah)
 <h3 align="left">Languages and Tools:</h3>
