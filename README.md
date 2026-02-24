@@ -40,6 +40,9 @@
 
 [![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=visnusah&theme=react-dark&bg_color=dark&color=777777&line=5194f0&point=5194f0&hide_border=true)](https://github.com/visnusah/visnusah)
 
+<img width="1352" height="1490" alt="image" src="https://github.com/user-attachments/assets/3be492c4-4170-453b-abd7-55c12096a14c" />
+
+
 <div style="display: flex; flex-direction: column; gap: 10px;">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=visnusah&show_icons=true&locale=en&layout=compact" alt="visnusah" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=visnusah&show_icons=true&locale=en" alt="visnusah" /></p>
